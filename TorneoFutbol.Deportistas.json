@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "67390051b8ca905d8a0d8190"
+  },
+  "nombre": "Luiz Diaz",
+  "edad": 27,
+  "equipo": "Colombia",
+  "posicion": "Delantero",
+  "altura": 178,
+  "equipos_donde_juego": [
+    {
+      "equipo": "Liverpool",
+      "posicion": "Delantero"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673900c0b8ca905d8a0d8191"
+  },
+  "nombre": "Lionel Messi",
+  "edad": 37,
+  "equipo": "Argentina",
+  "posicion": "Delantero",
+  "altura": 170,
+  "equipos_donde_juego": [
+    {
+      "equipo": "Barcelona",
+      "posicion": "Delantero"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6739013bb8ca905d8a0d8192"
+  },
+  "nombre": "Jose Maria Gimenez",
+  "edad": 29,
+  "equipo": "Uruguay",
+  "posicion": "Defensa",
+  "altura": 185,
+  "equipos_donde_juego": [
+    {
+      "equipo": "Atletico Madrid",
+      "posicion": "Defensa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67390158b8ca905d8a0d8193"
+  },
+  "nombre": "Fidel Escobar",
+  "edad": 29,
+  "equipo": "Panama",
+  "posicion": "Defensa",
+  "altura": 184
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6739049cb8ca905d8a0d819b"
+  },
+  "encuentro_id": 1,
+  "goles_local": 3,
+  "goles_visitante": 1,
+  "fecha_resultado": "2024-11-20T20:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673904bfb8ca905d8a0d819c"
+  },
+  "encuentro_id": 1,
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "fecha_resultado": "2024-11-20T17:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673905c9b8ca905d8a0d819e"
+  },
+  "encuentro_id": 1,
+  "goles_local": 0,
+  "goles_visitante": 1,
+  "fecha_resultado": "2024-11-20T17:00:00Z"
+}]

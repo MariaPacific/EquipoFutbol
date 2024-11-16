@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "67390382b8ca905d8a0d8198"
+  },
+  "nombre": "César Ramos",
+  "nacionalidad": "México",
+  "experiencia": 10,
+  "Partidos Arbitrados": 200
+}]

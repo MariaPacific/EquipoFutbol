@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "673903efb8ca905d8a0d8199"
+  },
+  "fecha": "2024-11-20T18:00:00Z",
+  "equipo_local": "Colombia",
+  "equipo_visitante": "Argentina",
+  "arbitro_id": "César Ramos"
+},
+{
+  "_id": {
+    "$oid": "67390413b8ca905d8a0d819a"
+  },
+  "fecha": "2024-11-20T15:00:00Z",
+  "equipo_local": "Uruguay",
+  "equipo_visitante": "Panama",
+  "arbitro_id": "César Ramos"
+}]
